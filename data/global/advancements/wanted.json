@@ -1,0 +1,21 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:map"
+      },
+      "title": {
+        "text": "Wanted",
+        "color": "#CDAF56"
+      },
+      "description": "",
+      "show_toast": true,
+      "announce_to_chat": false
+    },
+    "parent": "global:nearznn",
+    "criteria": {
+      "tick": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
+  

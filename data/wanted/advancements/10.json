@@ -1,0 +1,16 @@
+{
+    "parent": "wanted:root",
+  "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:guardian"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "wanted:5.10"
+    }
+  }

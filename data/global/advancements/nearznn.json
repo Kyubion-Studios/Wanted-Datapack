@@ -1,0 +1,21 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:player_head",
+        "nbt": "{SkullOwner: 'nearznn'}"
+      },
+      "title": {
+        "text": "Nearznn"
+      },
+      "description": "",
+      "show_toast": true,
+      "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+      "tick": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
+  
